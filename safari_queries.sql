@@ -1,0 +1,1 @@
+SELECT * FROM animals WHERE enclosure_id = 1;
